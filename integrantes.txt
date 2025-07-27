@@ -1,8 +1,15 @@
 Nombre(s) de integrante(s):
+
 - Kevin Cristhian Villca Torrico
+
+Para la descarga en .zip:
+
+https://github.com/kev-torrico/proyecto_biblioteca_vue.js/archive/refs/heads/main.zip
+
 Pasos para iniciar el proyecto
 1) npm install
 2) npm run serve
+
 Para hacer login, utilizar cualquier usuario administrador, ejemplo:
 
 email: kevin@mail.com
