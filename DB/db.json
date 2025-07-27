@@ -1,0 +1,82 @@
+{
+  "usuarios": [
+    {
+      "id": "0c54",
+      "nombre": "Kevin",
+      "email": "kevin@mail.com",
+      "rol": "administrador"
+    },
+    {
+      "id": "4se5",
+      "nombre": "Vania",
+      "email": "vania@mail.com",
+      "rol": "administrador"
+    },
+    {
+      "id": "67a7",
+      "nombre": "Antonio",
+      "rol": "administrador",
+      "email": "antonio@mail.com"
+    }
+  ],
+  "autores": [
+    {
+      "id": "a1l2",
+      "nombre": "Gabriel García Márquez",
+      "nacionalidad": "Colombiana",
+      "fechaNacimiento": "1927-03-06"
+    },
+    {
+      "id": "a34f",
+      "nombre": "Isabel Allende",
+      "nacionalidad": "Chilena",
+      "fechaNacimiento": "1942-08-02"
+    },
+    {
+      "id": "b7k9",
+      "nombre": "Mario Vargas Llosa",
+      "nacionalidad": "Peruana",
+      "fechaNacimiento": "1936-03-28"
+    },
+    {
+      "id": "c2m8",
+      "nombre": "Laura Esquivel",
+      "nacionalidad": "Mexicana",
+      "fechaNacimiento": "1950-09-30"
+    }
+  ],
+  "libros": [
+    {
+      "id": "see3",
+      "titulo": "Cien años de soledad",
+      "genero": "Realismo mágico",
+      "anioPublicacion": 1967,
+      "autorId": "a1l2",
+      "usuarioId": "0c54"
+    },
+    {
+      "id": "34qw",
+      "titulo": "La casa de los espíritus",
+      "genero": "Ficción",
+      "anioPublicacion": 1982,
+      "autorId": "a34f",
+      "usuarioId": "0c54"
+    },
+    {
+      "id": "d9x7",
+      "titulo": "La ciudad y los perros",
+      "genero": "Novela",
+      "anioPublicacion": 1963,
+      "autorId": "b7k9",
+      "usuarioId": "0c54"
+    },
+    {
+      "id": "e5r1",
+      "titulo": "Como agua para chocolate",
+      "genero": "Realismo mágico",
+      "anioPublicacion": 1989,
+      "autorId": "c2m8",
+      "usuarioId": "0c54"
+    }
+  ]
+}
