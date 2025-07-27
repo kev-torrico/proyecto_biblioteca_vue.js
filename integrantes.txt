@@ -3,3 +3,7 @@ Nombre(s) de integrante(s):
 Pasos para iniciar el proyecto
 1) npm install
 2) npm run serve
+Para hacer login, utilizar cualquier usuario administrador, ejemplo:
+
+email: kevin@mail.com
+contraseña: 1234
