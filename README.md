@@ -4,24 +4,24 @@
 
 ### Kevin Cristhian Villca Torrico
 
-## Project setup
+## Instalar dependencias del proyecto
 
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Levantar el servidor
 
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Levantar el backend
 
 ```
-npm run build
+cd DB
 ```
 
-### Customize configuration
-
-See [Configuration Reference](https://cli.vuejs.org/config/).
+```
+json-server --watch db.json --port 5000
+```
