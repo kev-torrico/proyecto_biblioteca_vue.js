@@ -10,6 +10,10 @@ Pasos para iniciar el proyecto
 1) npm install
 2) npm run serve
 
+Para iniciar el backend:
+1) cd DB
+2) json-server --watch db.json --port 5000
+
 Para hacer login, utilizar cualquier usuario administrador, ejemplo:
 
 email: kevin@mail.com
